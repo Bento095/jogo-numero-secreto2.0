@@ -1,5 +1,5 @@
 let listaDeNumerosGerados = [];
-let limite = 10
+let limite = 100
 let numeroSecreto = gerarNum();
 let tentativas = 1
 
