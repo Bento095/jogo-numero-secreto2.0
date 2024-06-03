@@ -65,3 +65,5 @@ function reiniciarJogo() {
     mensagemTitulo();
     document.getElementById("reiniciar").setAttribute('disabled', true);
 }
+
+// teste para git
