@@ -11,7 +11,7 @@ function mostraTexto(tag, texto){
 
 function mensagemTitulo() {
     mostraTexto('h1', 'Jogo do número secreto');
-    mostraTexto('p', 'Duvido tu acertar esse número que eu tirei do fióte, de 1 a 10.');
+    mostraTexto('p', `Duvido tu acertar esse número que eu tirei do fióte, de 1 a ${limite}.`);
 }
 
 mensagemTitulo()
